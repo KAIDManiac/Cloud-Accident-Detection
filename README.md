@@ -196,6 +196,6 @@ This project is open-source under the MIT License.
 
 ## Author
 
-**Syed Abubaker Ahmed (Kaid)**
+**Syed Abubaker Ahmed**
 
 AI/ML Engineer | Computer Vision Developer | Autonomous Systems & Smart Mobility | Smart City Technology Researcher | CS Undergraduate
