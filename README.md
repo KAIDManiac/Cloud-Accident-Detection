@@ -198,4 +198,4 @@ This project is open-source under the MIT License.
 
 **Syed Abubaker Ahmed (Kaid)**
 
-AI Engineer | Computer Vision Enthusiast
+AI/ML Engineer | Computer Vision Developer | Autonomous Systems & Smart Mobility | Smart City Technology Researcher | CS Undergraduate
